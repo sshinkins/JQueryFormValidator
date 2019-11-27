@@ -1,0 +1,15 @@
+form {
+    margin:40px;
+    justify-content: center;
+}
+#padding {
+    width:600px;
+    margin: auto;
+    top:0;
+}
+.card {
+    padding: 20px;
+}
+.validationError {
+    display: block;
+}
